@@ -10,6 +10,10 @@ variable "REGISTRY_NAME" {
   default = "custom_images"
 }
 
+variable "PERSONAL_ACCESS_TOKEN" {
+  default = "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"
+}
+
 variable "BACKEND_IMAGE_NAME" {
   default = "custom_worker"
 }

@@ -8,6 +8,7 @@ COPY repos ../apps
 USER root
 
 RUN install-app healthcare && \
-    install-app chat
+    install-app chat && \
+    install-app lafia
 
 USER frappe
