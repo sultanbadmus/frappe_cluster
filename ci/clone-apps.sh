@@ -18,6 +18,6 @@
 
 # Following are public repositories.
 
-git clone --depth 1 --branch master https://github.com/frappe/health repos/healthcare
-git clone --depth 1 --branch master https://github.com/frappe/chat repos/chat
-git clone --depth 1 --branch master ssh://git@github.com/parallelscore/Lafia-WebApp-ERPNext- repos/Lafia-WebApp-ERPNext-
+git clone --depth 1 --branch develop https://github.com/frappe/health repos/healthcare
+git clone --depth 1 --branch main https://github.com/frappe/chat repos/chat
+git clone --depth 1 --branch dev ssh://git@github.com/parallelscore/Lafia-WebApp-ERPNext- repos/Lafia-WebApp-ERPNext-
