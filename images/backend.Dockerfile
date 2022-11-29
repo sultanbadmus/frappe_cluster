@@ -7,7 +7,8 @@ COPY repos ../apps
 
 USER root
 
-RUN install-app posawesome && \
-    install-app wiki
+RUN install-app healthcare && \
+    install-app chat && \
+    install-app lafia
 
 USER frappe

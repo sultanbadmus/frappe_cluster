@@ -18,5 +18,6 @@
 
 # Following are public repositories.
 
-git clone --depth 1 --branch master https://github.com/yrestom/POS-Awesome repos/posawesome
-git clone --depth 1 --branch master https://github.com/frappe/wiki repos/wiki
+git clone --depth 1 --branch master https://github.com/frappe/health repos/health
+git clone --depth 1 --branch master https://github.com/frappe/chat repos/chat
+git clone --depth 1 --branch master ssh://git@github.com/parallelscore/Lafia-WebApp-ERPNext- repos/Lafia-WebApp-ERPNext-
