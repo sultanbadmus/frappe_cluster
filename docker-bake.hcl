@@ -10,10 +10,6 @@ variable "REGISTRY_NAME" {
   default = "custom_images"
 }
 
-variable "PERSONAL_ACCESS_TOKEN" {
-  default = ${PERSONAL_ACCESS_TOKEN}
-}
-
 variable "BACKEND_IMAGE_NAME" {
   default = "custom_worker"
 }
