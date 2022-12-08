@@ -21,4 +21,4 @@
 git clone --depth 1 --branch develop https://github.com/frappe/health repos/healthcare
 git clone --depth 1 --branch main https://github.com/frappe/chat repos/chat
 # git clone --depth 1 --branch dev ssh://git@github.com/parallelscore/Lafia-WebApp-ERPNext- repos/lafia
-git clone --depth 1 --branch sultan-patch https://sultanbadmus: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/parallelscore/Lafia-WebApp-ERPNext- repos/lafia
+git clone --depth 1 --branch sultan-patch https://sultanbadmus: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@github.com/parallelscore/Lafia-WebApp-ERPNext- repos/lafia
