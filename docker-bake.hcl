@@ -11,7 +11,7 @@ variable "REGISTRY_NAME" {
 }
 
 variable "PERSONAL_ACCESS_TOKEN" {
-  default = "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"
+  default = ${PERSONAL_ACCESS_TOKEN}
 }
 
 variable "BACKEND_IMAGE_NAME" {
