@@ -11,7 +11,7 @@ variable "REGISTRY_NAME" {
 }
 
 variable "PERSONAL_ACCESS_TOKEN" {
-  default = "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"
+  default = "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"
 }
 
 variable "BACKEND_IMAGE_NAME" {
